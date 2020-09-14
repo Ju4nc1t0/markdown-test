@@ -95,11 +95,9 @@ print("Hello world")
 
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
-* [ ] Task 2
-* [ ] Task 3
+* [] Task 2
+* [] Task 3
 * [x] Task 4
-
-@Ju4nc1t0 :smiley: :+1:
 
 
 
